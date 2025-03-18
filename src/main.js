@@ -11,7 +11,7 @@ import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 
 document.addEventListener('DOMContentLoaded', () => {
-  const searchForm = document.querySelector('.search-form');
+  const searchForm = document.querySelector('.form');
   const gallery = document.querySelector('.gallery');
   const loader = document.querySelector('.loader');
 
